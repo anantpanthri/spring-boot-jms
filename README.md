@@ -1,1 +1,2 @@
 # spring-boot-jms
+#this application requires download of apache mq compatible for java 1.8. Run maven batch and jar from win 64 make sure no application is utilising port 6161 or else apache mq wont run
